@@ -2,8 +2,8 @@
 
 ## Defi (Decentralized Finance) DApp -DBANK using Motoko and DIFINITY's Internet Computer
 
-![Alt text](relative%20path/to/dbank-project.jpeg?raw=true "Title")
-src/dbank_assets/assets/dbank-project.jpeg
+![dbank-project](https://user-images.githubusercontent.com/99329730/236698206-0aed19b8-b36a-4bdd-9c21-9862fa5c47c8.jpeg)
+
 
 Welcome to your new dbank project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
