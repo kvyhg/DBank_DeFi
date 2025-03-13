@@ -3,6 +3,7 @@ import Time "mo:base/Time";
 import Float "mo:base/Float";
 
 actor DBank {
+
   stable var currentValue: Float = 300;
   currentValue := 300;
   Debug.print(debug_show(currentValue));
@@ -49,7 +50,5 @@ actor DBank {
     currentValue := currentValue * (1.01 ** Float.fromInt(timeElapsedS));
     startTime := currentTime;
   };
-
-
   
 }
